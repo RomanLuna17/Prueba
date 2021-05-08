@@ -1,0 +1,3 @@
+# Como administracion quiero poder cargar un usuario
+
+En esta user story estoy probando como funciona mark down y probando sus comandos
